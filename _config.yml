@@ -3,8 +3,7 @@ theme: jekyll-theme-minimal
 
 title: Arav Chauhan
 logo: /assets/img/IMG_1394.JPG  
-description: I am currently studying MSc Data Science and Analytics at the University of Leeds, building on a B.Tech in Electronics and Communication Engineering. My interests include machine learning, deep learning, NLP, and computer vision, with a growing focus on production‑ready AI systems (RAG, LLM orchestration, and MLOps).
-I like working on end‑to‑end projects defining the problem, preparing and analysing data, building and evaluating models, and communicating results to non‑technical stakeholders.
+description: I am currently studying MSc Data Science and Analytics at the University of Leeds, building on a B.Tech in Electronics and Communication Engineering. My interests include machine learning, deep learning, NLP, and computer vision, with a growing focus on production‑ready AI systems (RAG, LLM orchestration, and MLOps). I like working on end‑to‑end projects defining the problem, preparing and analysing data, building and evaluating models, and communicating results to non‑technical stakeholders.
 
 # Social links (shows in sidebar)
 github_username: Arav810
