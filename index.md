@@ -1,24 +1,6 @@
 ---
 layout: default
-title: Arav Chauhan
----
-
-# Arav Chauhan
-
-MSc Data Science and Analytics student at the University of Leeds, with hands‑on experience in machine learning, deep learning, and LLM/RAG systems. I enjoy turning complex data and models into clear, actionable insights for real-world problems.
-
-- 📍 Leeds, UK  
-- 💼 Open to: Data Science / Machine Learning / AI Engineer graduate roles  
-- 🔗 [GitHub](https://github.com/Arav810) · [LinkedIn](www.linkedin.com/in/arav-chauhan-453164266) · [Email](mailto:arav.chauhan0123@gmail.com)
-
----
-
-## About
-
-I am currently studying **MSc Data Science and Analytics** at the University of Leeds, building on a B.Tech in Electronics and Communication Engineering. My interests include machine learning, deep learning, NLP, and computer vision, with a growing focus on production‑ready AI systems (RAG, LLM orchestration, and MLOps).
-
-I like working on end‑to‑end projects: defining the problem, preparing and analysing data, building and evaluating models, and communicating results to non‑technical stakeholders.
-
+title: Portfolio
 ---
 
 ## Skills
