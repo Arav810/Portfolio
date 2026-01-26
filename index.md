@@ -3,14 +3,7 @@ layout: default
 title: Portfolio
 ---
 
-## Skills
-
-- **Languages & Tools:** Python, C++, SQL, VS Code, Jupyter Notebook  
-- **ML / DL:** Scikit‑learn, TensorFlow/Keras, classical ML (RF, SVM, etc.), CNNs  
-- **LLMs & RAG:** LangChain, LangGraph, Hugging Face Transformers, vector databases (FAISS, Qdrant), Neo4j  
-- **MLOps / Cloud:** Azure, AWS, Docker, MLflow, GitHub Actions  
-
----
+## Portfolio
 
 ## Selected Projects
 
@@ -39,18 +32,6 @@ Developed a multiclass classification model to predict terrorist groups from the
 **Tech:** TensorFlow/Keras, Python, pandas, NumPy, seaborn  
 Built and trained a convolutional neural network to classify facial emotions from images, including thorough EDA and image preprocessing (normalisation, augmentation) for robust generalisation. Evaluated performance with appropriate metrics and visualisations to understand model behaviour across emotion classes.  
 👉 [View project on GitHub](LINK_TO_FER_PROJECT_REPO)
-
----
-
-## Experience
-
-**Machine Learning Intern – fxis.ai**  
-*Jul 2025 – Sept 2025 (Remote)*  
-Worked on LangGraph‑based multi‑agent LLM systems, RAG pipelines, and a production‑ready multimodal chatbot using FastAPI, Streamlit, and Docker.
-
-**Machine Learning Intern – IIT Delhi**  
-*May 2024 – Jul 2024*  
-Developed a Random Forest classifier with advanced preprocessing and integrated LLM‑based embeddings for categorical data, comparing performance against traditional ML approaches.
 
 ---
 
