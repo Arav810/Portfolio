@@ -2,7 +2,7 @@
 theme: jekyll-theme-minimal
 
 title: Arav Chauhan
-logo: master/assets/img/IMG_1394.JPG
+logo: /assets/img/IMG_1394.JPG  
 description: MSc Data Science and Analytics @ University of Leeds. Specialising in machine learning, deep learning, and LLM/RAG systems.
 
 # Social links (shows in sidebar)
