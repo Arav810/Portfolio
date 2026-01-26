@@ -1,6 +1,14 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+# Minimal theme config
 theme: jekyll-theme-minimal
+
+title: Arav Chauhan
+description: MSc Data Science and Analytics @ University of Leeds. Specialising in machine learning, deep learning, and LLM/RAG systems.
+
+# Social links (shows in sidebar)
+github_username: Arav810
+linkedin_username: arav-chauhan-453164266  # or full URL if easier
+email: arav.chauhan0123@gmail.com
+
+# Optional: analytics, logo, etc.
+# google_analytics: UA-XXXXX-Y
+show_downloads: false
