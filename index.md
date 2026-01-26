@@ -5,7 +5,9 @@ title: Portfolio
 
 ## Portfolio
 
-## Selected Projects
+---
+
+## Projects
 
 ### Full‑Stack Multimodal RAG Chatbot  
 **Tech:** LangChain, LangGraph, FastAPI, Streamlit, Docker, Groq, vector databases  
